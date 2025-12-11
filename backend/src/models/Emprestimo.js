@@ -30,7 +30,7 @@ module.exports = (sequelize) => {
       validate: {
         isDate: { msg: 'Data prevista inválida' },
         isAfterSaida(value) {
-          if (new Date(value) <= new Date(this.dataSaida)) {
+          if (new Date(value) < new Date(this.dataSaida)) {
             throw new Error('Data prevista deve ser após data de saída');
           }
         }

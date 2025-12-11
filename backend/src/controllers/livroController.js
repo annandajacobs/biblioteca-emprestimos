@@ -4,22 +4,30 @@ const { Op } = require('sequelize');
 class LivroController {
   async criar(req, res) {
     try {
+      console.log('Recebendo requisição para criar livro:', req.body);
+      
       const { titulo, autor, isbn } = req.body;
 
       if (!titulo || !autor || !isbn) {
+        console.log('Validação falhou: dados incompletos');
         return res.status(400).json({
           mensagem: 'Dados incompletos',
           erro: 'Título, autor e ISBN são obrigatórios'
         });
       }
 
+      console.log('Validação passou, criando livro...');
       const livro = await Livro.create({ titulo, autor, isbn });
+      console.log('Livro criado com sucesso:', livro.toJSON());
 
       return res.status(201).json({
         mensagem: 'Livro cadastrado com sucesso',
         data: livro
       });
     } catch (error) {
+      console.error('Erro ao criar livro:', error);
+      console.error('Stack:', error.stack);
+      
       if (error.name === 'SequelizeValidationError') {
         return res.status(400).json({
           mensagem: 'Erro de validação',
