@@ -1,1008 +1,20 @@
-[00:00:00.955] Server  LOG      ✓ Ready in 641ms
-[00:00:12.383] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:12.761] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:12.761] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:12.761] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765543299171}
-[00:02:51.034] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:51.165] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:02:51.165] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:02:51.165] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765543457576}
-[00:03:56.388] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:56.388] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:03:56.388] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:03:56.388] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765543522889}
-[01:01:07.354] Server  LOG      ✓ Compiled in 22ms
-[01:01:08.528] Server  LOG      ✓ Compiled in 22ms
-[01:03:14.786] Server  LOG      ✓ Compiled in 10ms
-[01:04:30.588] Server  LOG      ✓ Compiled in 3ms
-[01:04:31.691] Server  LOG      ✓ Compiled in 11ms
-[01:05:25.191] Server  LOG      ✓ Compiled in 8ms
-[01:05:26.332] Server  LOG      ✓ Compiled in 12ms
-[01:06:31.215] Server  LOG      ✓ Compiled in 10ms
-[01:07:15.821] Server  LOG      ✓ Compiled in 9ms
-[01:07:18.671] Server  LOG      ✓ Compiled in 8ms
-[01:07:47.378] Server  LOG      ✓ Compiled in 8ms
-[01:08:00.170] Server  LOG      ✓ Compiled in 7ms
-[01:08:09.474] Server  LOG      ✓ Compiled in 8ms
-[01:08:16.776] Server  LOG      ✓ Compiled in 8ms
-[01:08:25.840] Server  LOG      ✓ Compiled in 8ms
-[01:08:34.107] Server  LOG      ✓ Compiled in 7ms
-[01:08:40.635] Server  LOG      ✓ Compiled in 7ms
-[01:08:47.480] Server  LOG      ✓ Compiled in 8ms
-[01:08:55.874] Server  LOG      ✓ Compiled in 6ms
-[01:09:14.649] Server  LOG      ✓ Compiled in 2ms
-[01:10:16.804] Browser ERROR   Erro ao deletar livro: {"response":{"erro":"Emprestimo is not defined","mensagem":"Erro ao deletar livro"},"status":500}
-[01:15:25.796] Browser ERROR   Erro ao deletar livro: {"response":{"erro":"Emprestimo is not defined","mensagem":"Erro ao deletar livro"},"status":500}
-[01:24:11.966] Server  LOG      ✓ Compiled in 9ms
-[01:24:13.325] Server  LOG      ✓ Compiled in 13ms
-[01:25:12.779] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:25:12.916] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[01:25:12.916] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[01:25:12.916] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765548400133}
-[01:25:20.345] Browser ERROR   Erro ao deletar livro: {"response":{"erro":"Emprestimo is not defined","mensagem":"Erro ao processar solicitação"},"status":500}
-[01:25:30.724] Browser ERROR   Erro ao deletar livro: {"response":{"erro":"Emprestimo is not defined","mensagem":"Erro ao processar solicitação"},"status":500}
-[01:25:34.855] Browser ERROR   Erro ao deletar livro: {"response":{"erro":"Emprestimo is not defined","mensagem":"Erro ao processar solicitação"},"status":500}
-[01:25:59.042] Server  LOG      ✓ Compiled in 6ms
-[01:37:34.484] Server  LOG      ✓ Compiled in 15ms
-[01:37:35.560] Server  LOG      ✓ Compiled in 34ms
-[01:37:35.664] Browser ERROR   ./src/pages/Livros.jsx:197:11
+[00:00:00.997] Server  LOG      ✓ Ready in 709ms
+[00:00:45.262] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:45.645] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:45.645] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:45.645] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765567849056}
+[00:05:41.035] Server  LOG      ✓ Compiled in 23ms
+[00:05:44.466] Server  LOG      ✓ Compiled in 15ms
+[00:05:45.852] Server  LOG      ✓ Compiled in 45ms
+[00:05:45.956] Browser ERROR   ./src/pages/Livros.jsx:113:10
 Parsing ecmascript source code failed
-  195 |             <option value="emprestado">Emprestado</option>
-  196 |             <
-> 197 |           </select>
-      |           ^
-  198 |         </div>
-  199 |       </div>
-  200 |
-
-Expression expected
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:37:35.664] Browser ERROR   ./src/pages/Livros.jsx:197:12
-Parsing ecmascript source code failed
-  195 |             <option value="emprestado">Emprestado</option>
-  196 |             <
-> 197 |           </select>
-      |            ^^^^^^^^
-  198 |         </div>
-  199 |       </div>
-  200 |
-
-Unterminated regexp literal
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:37:37.730] Browser ERROR   ./src/pages/Livros.jsx:197:11
-Parsing ecmascript source code failed
-  195 |             <option value="emprestado">Emprestado</option>
-  196 |             <op
-> 197 |           </select>
-      |           ^
-  198 |         </div>
-  199 |       </div>
-  200 |
-
-Expression expected
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:37:37.730] Browser ERROR   ./src/pages/Livros.jsx:197:12
-Parsing ecmascript source code failed
-  195 |             <option value="emprestado">Emprestado</option>
-  196 |             <op
-> 197 |           </select>
-      |            ^^^^^^^^
-  198 |         </div>
-  199 |       </div>
-  200 |
-
-Unterminated regexp literal
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:37:41.881] Browser ERROR   ./src/pages/Livros.jsx:197:11
-Parsing ecmascript source code failed
-  195 |             <option value="emprestado">Emprestado</option>
-  196 |             <option value
-> 197 |           </select>
-      |           ^
-  198 |         </div>
-  199 |       </div>
-  200 |
-
-Expression expected
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:37:41.881] Browser ERROR   ./src/pages/Livros.jsx:197:12
-Parsing ecmascript source code failed
-  195 |             <option value="emprestado">Emprestado</option>
-  196 |             <option value
-> 197 |           </select>
-      |            ^^^^^^^^
-  198 |         </div>
-  199 |       </div>
-  200 |
-
-Unterminated regexp literal
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:37:43.102] Browser ERROR   ./src/pages/Livros.jsx:198:9
-Parsing ecmascript source code failed
-  196 |             <option value=
-  197 |           </select>
-> 198 |         </div>
-      |         ^
-  199 |       </div>
-  200 |
-  201 |       <div className="card">
-
-Expression expected
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:37:43.102] Browser ERROR   ./src/pages/Livros.jsx:198:10
-Parsing ecmascript source code failed
-  196 |             <option value=
-  197 |           </select>
-> 198 |         </div>
-      |          ^^^^^
-  199 |       </div>
-  200 |
-  201 |       <div className="card">
-
-Unterminated regexp literal
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:37:45.953] Browser ERROR   ./src/pages/Livros.jsx:197:11
-Parsing ecmascript source code failed
-  195 |             <option value="emprestado">Emprestado</option>
-  196 |             <option value=""
-> 197 |           </select>
-      |           ^
-  198 |         </div>
-  199 |       </div>
-  200 |
-
-Expression expected
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:37:45.953] Browser ERROR   ./src/pages/Livros.jsx:197:12
-Parsing ecmascript source code failed
-  195 |             <option value="emprestado">Emprestado</option>
-  196 |             <option value=""
-> 197 |           </select>
-      |            ^^^^^^^^
-  198 |         </div>
-  199 |       </div>
-  200 |
-
-Unterminated regexp literal
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:37:50.408] Browser ERROR   ./src/pages/Livros.jsx:197:11
-Parsing ecmascript source code failed
-  195 |             <option value="emprestado">Emprestado</option>
-  196 |             <option value="descartado"
-> 197 |           </select>
-      |           ^
-  198 |         </div>
-  199 |       </div>
-  200 |
-
-Expression expected
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:37:50.408] Browser ERROR   ./src/pages/Livros.jsx:197:12
-Parsing ecmascript source code failed
-  195 |             <option value="emprestado">Emprestado</option>
-  196 |             <option value="descartado"
-> 197 |           </select>
-      |            ^^^^^^^^
-  198 |         </div>
-  199 |       </div>
-  200 |
-
-Unterminated regexp literal
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:37:57.365] Server  LOG      ✓ Compiled in 18ms
-[01:37:59.268] Server  LOG      ✓ Compiled in 12ms
-[01:38:01.484] Server  LOG      ✓ Compiled in 13ms
-[01:41:06.351] Server  LOG      ✓ Compiled in 18ms
-[01:41:06.452] Browser ERROR   ./src/pages/Livros.jsx:236:98
-Parsing ecmascript source code failed
-  234 |                     <td>{livro.isbn}</td>
-  235 |                     <td>
-> 236 |                       <span className={`badge ${livro.status === "disponível" ? "badge-success" l "badge-warning"}`}>
-      |                                                                                                  ^
-  237 |                         {livro.status}
-  238 |                       </span>
-  239 |                     </td>
-
-Expected '</', got 'l'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:41:10.664] Server  LOG      ✓ Compiled in 12ms
-[01:41:10.766] Browser ERROR   ./src/pages/Livros.jsx:236:99
-Parsing ecmascript source code failed
-  234 |                     <td>{livro.isbn}</td>
-  235 |                     <td>
-> 236 |                       <span className={`badge ${livro.status === "disponível" ? "badge-success"  "badge-warning"}`}>
-      |                                                                                                   ^^^^^^^^^^^^^^^
-  237 |                         {livro.status}
-  238 |                       </span>
-  239 |                     </td>
-
-Expected '</', got 'string literal (badge-warning, "badge-warning")'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:41:11.984] Server  LOG      ✓ Compiled in 18ms
-[01:41:12.085] Browser ERROR   ./src/pages/Livros.jsx:236:115
-Parsing ecmascript source code failed
-  234 |                     <td>{livro.isbn}</td>
-  235 |                     <td>
-> 236 |                       <span className={`badge ${livro.status === "disponível" ? "badge-success" ? "badge-warning"}`}>
-      |                                                                                                                   ^
-  237 |                         {livro.status}
-  238 |                       </span>
-  239 |                     </td>
-
-Expected '</', got '}'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:41:22.260] Server  LOG      ✓ Compiled in 12ms
-[01:41:22.361] Browser ERROR   ./src/pages/Livros.jsx:236:102
-Parsing ecmascript source code failed
-  234 |                     <td>{livro.isbn}</td>
-  235 |                     <td>
-> 236 |                       <span className={`badge ${livro.status === "disponível" ? "badge-success" === ? "badge-warning"}`}>
-      |                                                                                                      ^
-  237 |                         {livro.status}
-  238 |                       </span>
-  239 |                     </td>
-
-Expected '</', got '?'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:41:23.704] Server  LOG      ✓ Compiled in 12ms
-[01:41:23.805] Browser ERROR   ./src/pages/Livros.jsx:236:106
-Parsing ecmascript source code failed
-  234 |                     <td>{livro.isbn}</td>
-  235 |                     <td>
-> 236 |                       <span className={`badge ${livro.status === "disponível" ? "badge-success" === "? "badge-warning"}`}>
-      |                                                                                                          ^^^^^
-  237 |                         {livro.status}
-  238 |                       </span>
-  239 |                     </td>
-
-Expected '</', got 'badge'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:41:25.355] Server  LOG      ✓ Compiled in 14ms
-[01:41:25.457] Browser ERROR   ./src/pages/Livros.jsx:236:121
-Parsing ecmascript source code failed
-  234 |                     <td>{livro.isbn}</td>
-  235 |                     <td>
-> 236 |                       <span className={`badge ${livro.status === "disponível" ? "badge-success" === ""? "badge-warning"}`}>
-      |                                                                                                                         ^
-  237 |                         {livro.status}
-  238 |                       </span>
-  239 |                     </td>
-
-Expected '</', got '}'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:41:38.745] Browser ERROR   ./src/pages/Livros.jsx:236:131
-Parsing ecmascript source code failed
-  234 |                     <td>{livro.isbn}</td>
-  235 |                     <td>
-> 236 |                       <span className={`badge ${livro.status === "disponível" ? "badge-success" === "emprestado"? "badge-warning"}`}>
-      |                                                                                                                                   ^
-  237 |                         {livro.status}
-  238 |                       </span>
-  239 |                     </td>
-
-Expected '</', got '}'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:41:42.130] Browser ERROR   ./src/pages/Livros.jsx:236:132
-Parsing ecmascript source code failed
-  234 |                     <td>{livro.isbn}</td>
-  235 |                     <td>
-> 236 |                       <span className={`badge ${livro.status === "disponível" ? "badge-success" === "emprestado" ? "badge-warning"}`}>
-      |                                                                                                                                    ^
-  237 |                         {livro.status}
-  238 |                       </span>
-  239 |                     </td>
-
-Expected '</', got '}'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:41:49.009] Browser ERROR   ./src/pages/Livros.jsx:236:135
-Parsing ecmascript source code failed
-  234 |                     <td>{livro.isbn}</td>
-  235 |                     <td>
-> 236 |                       <span className={`badge ${livro.status === "disponível" ? "badge-success" === "emprestado" ? "badge-warning" : }`}>
-      |                                                                                                                                       ^
-  237 |                         {livro.status}
-  238 |                       </span>
-  239 |                     </td>
-
-Expected '</', got '}'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:41:51.445] Browser ERROR   ./src/pages/Livros.jsx:236:143
-Parsing ecmascript source code failed
-  234 |                     <td>{livro.isbn}</td>
-  235 |                     <td>
-> 236 |                       <span className={`badge ${livro.status === "disponível" ? "badge-success" === "emprestado" ? "badge-warning" : "danger"}`}>
-      |                                                                                                                                               ^
-  237 |                         {livro.status}
-  238 |                       </span>
-  239 |                     </td>
-
-Expected '</', got '}'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:42:23.192] Browser ERROR   ./src/pages/Livros.jsx:236:142
-Parsing ecmascript source code failed
-  234 |                     <td>{livro.isbn}</td>
-  235 |                     <td>
-> 236 |                       <span className={`badge ${livro.status === "disponível" ? "badge-success" === "emprestado" ? "badge-warning" : "daner"}`}>
-      |                                                                                                                                              ^
-  237 |                         {livro.status}
-  238 |                       </span>
-  239 |                     </td>
-
-Expected '</', got '}'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:42:28.342] Browser ERROR   ./src/pages/Livros.jsx:236:149
-Parsing ecmascript source code failed
-  234 |                     <td>{livro.isbn}</td>
-  235 |                     <td>
-> 236 |                       <span className={`badge ${livro.status === "disponível" ? "badge-success" === "emprestado" ? "badge-warning" : "badge-danger"}`}>
-      |                                                                                                                                                     ^
-  237 |                         {livro.status}
-  238 |                       </span>
-  239 |                     </td>
-
-Expected '</', got '}'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:43:51.641] Server  LOG      ✓ Compiled in 22ms
-[01:43:51.903] Browser ERROR   ./src/pages/Livros.jsx:236:100
-Parsing ecmascript source code failed
-  234 |                     <td>{livro.isbn}</td>
-  235 |                     <td>
-> 236 |                       <span className={`badge ${livro.status === "disponível" ? "badge-success"   "badge-warning"}`}>
-      |                                                                                                    ^^^^^^^^^^^^^^^
-  237 |                         {livro.status}
-  238 |                       </span>
-  239 |                     </td>
-
-Expected '</', got 'string literal (badge-warning, "badge-warning")'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:44:11.956] Server  LOG      ✓ Compiled in 17ms
-[01:44:12.903] Browser ERROR   ./src/pages/Livros.jsx:237:24
-Parsing ecmascript source code failed
-  235 |                     <td>
-  236 |                       <span className={`badge ${livro.status === "disponível" ? "badge-success" : livro.status === "emprestado" 
-> 237 |       ? "badge-warning"}`}>
-      |                        ^
-  238 |                         {livro.status}
-  239 |                       </span>
-  240 |                     </td>
-
-Expected '</', got '}'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:44:15.360] Server  LOG      ✓ Compiled in 12ms
-[01:44:15.902] Browser ERROR   ./src/pages/Livros.jsx:237:9
-Parsing ecmascript source code failed
-  235 |                     <td>
-  236 |                       <span className={`badge ${livro.status === "disponível" ? "badge-success" : livro.status === "emprestado" 
-> 237 |       ? : "badge-warning"}`}>
-      |         ^
-  238 |                         {livro.status}
-  239 |                       </span>
-  240 |                     </td>
-
-Expected '</', got ':'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:44:30.633] Server  LOG      ✓ Compiled in 13ms
-[01:44:30.902] Browser ERROR   ./src/pages/Livros.jsx:237:24
-Parsing ecmascript source code failed
-  235 |                     <td>
-  236 |                       <span className={`badge ${livro.status === "disponível" ? "badge-success" : livro.status === "emprestado" 
-> 237 |       ? "badge-warning"}`}>
-      |                        ^
-  238 |                         {livro.status}
-  239 |                       </span>
-  240 |                     </td>
-
-Expected '</', got '}'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:44:38.904] Browser ERROR   ./src/pages/Livros.jsx:237:27
-Parsing ecmascript source code failed
-  235 |                     <td>
-  236 |                       <span className={`badge ${livro.status === "disponível" ? "badge-success" : livro.status === "emprestado" 
-> 237 |       ? "badge-warning" : }`}>
-      |                           ^
-  238 |                         {livro.status}
-  239 |                       </span>
-  240 |                     </td>
-
-Expected '</', got '}'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:44:42.454] Server  LOG      ✓ Compiled in 16ms
-[01:44:42.902] Browser ERROR   ./src/pages/Livros.jsx:238:30
-Parsing ecmascript source code failed
-  236 |                       
-  237 |                         {livro.status}
-> 238 |                       </span>
-      |                              ^
-> 239 |                     </td>
-      | ^^^^^^^^^^^^^^^^^^^^^
-  240 |                     <td>
-  241 |                       <button onClick={() => handleEdit(livro)} className="btn-icon" title="Editar" disabled={loading}>
-  242 |                         <Edit2 size={18} />
-
-Expected '</', got 'jsx text (
-                    )'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:44:43.902] Browser ERROR   ./src/pages/Livros.jsx:239:30
-Parsing ecmascript source code failed
-  237 |       ?
-  238 |                         {livro.status}
-> 239 |                       </span>
-      |                              ^
-> 240 |                     </td>
-      | ^^^^^^^^^^^^^^^^^^^^^
-  241 |                     <td>
-  242 |                       <button onClick={() => handleEdit(livro)} className="btn-icon" title="Editar" disabled={loading}>
-  243 |                         <Edit2 size={18} />
-
-Expected '</', got 'jsx text (
-                    )'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:44:44.903] Browser ERROR   ./src/pages/Livros.jsx:238:30
-Parsing ecmascript source code failed
-  236 |                       
-  237 |                         {livro.status}
-> 238 |                       </span>
-      |                              ^
-> 239 |                     </td>
-      | ^^^^^^^^^^^^^^^^^^^^^
-  240 |                     <td>
-  241 |                       <button onClick={() => handleEdit(livro)} className="btn-icon" title="Editar" disabled={loading}>
-  242 |                         <Edit2 size={18} />
-
-Expected '</', got 'jsx text (
-                    )'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:45:32.790] Server  LOG      ✓ Compiled in 12ms
-[01:45:32.902] Browser ERROR   ./src/pages/Livros.jsx:237:25
-Parsing ecmascript source code failed
-  235 |                     <td>
-  236 |                       <span className={`badge ${livro.status === "disponível" ? "badge-success" : livro.status === "emprestado" ? "badge-warning" : "badge-danger"}`
-> 237 |                         {livro.status}
-      |                         ^
-  238 |                       </span>
-  239 |                     </td>
-  240 |                     <td>
-
-Expected '</', got '{'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:45:39.788] Server  LOG      ✓ Compiled in 17ms
-[01:45:39.902] Browser ERROR   ./src/pages/Livros.jsx:237:26
-Parsing ecmascript source code failed
-  235 |                     <td>
-  236 |                       <span className={`badge ${livro.status === "disponível" ? "badge-success" : livro.status === "emprestado" 
-> 237 |       ? "badge-warning" :}`}>
-      |                          ^
-  238 |                         {livro.status}
-  239 |                       </span>
-  240 |                     </td>
-
-Expected '</', got '}'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[01:45:47.337] Server  LOG      ✓ Compiled in 14ms
-[01:46:21.372] Server  LOG      ✓ Compiled in 13ms
-[01:46:22.885] Server  LOG      ✓ Compiled in 13ms
-[01:49:41.549] Server  LOG      ✓ Compiled in 7ms
-[01:50:19.087] Server  LOG      ✓ Compiled in 14ms
-[01:50:21.371] Server  LOG      ✓ Compiled in 12ms
-[01:50:30.503] Server  LOG      ✓ Compiled in 23ms
-[01:50:31.906] Server  LOG      ✓ Compiled in 21ms
-[01:52:07.522] Server  LOG      ✓ Compiled in 21ms
-[01:52:09.371] Server  LOG      ✓ Compiled in 19ms
-[01:58:42.309] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:58:42.473] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[01:58:42.473] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[01:58:42.473] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765550409674}
-[02:03:46.872] Server  LOG      ✓ Compiled in 8ms
-[02:04:13.930] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[02:04:14.049] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[02:04:14.049] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[02:04:14.049] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765550741265}
-[02:07:46.312] Server  LOG      ✓ Compiled in 13ms
-[02:07:56.022] Server  LOG      ✓ Compiled in 7ms
-[02:08:07.154] Server  LOG      ✓ Compiled in 21ms
-[02:08:13.888] Server  LOG      ✓ Compiled in 20ms
-[02:08:15.298] Server  LOG      ✓ Compiled in 22ms
-[02:08:44.402] Server  LOG      ✓ Compiled in 11ms
-[02:08:57.475] Server  LOG      ✓ Compiled in 20ms
-[02:09:00.451] Server  LOG      ✓ Compiled in 16ms
-[02:09:01.546] Server  LOG      ✓ Compiled in 27ms
-[02:09:02.916] Server  LOG      ✓ Compiled in 16ms
-[02:09:11.642] Server  LOG      ✓ Compiled in 18ms
-[02:09:11.903] Browser ERROR   ./src/pages/Livros.jsx:108:7
-Parsing ecmascript source code failed
-  106 |     <div className="container"
-  107 |
-> 108 |       <div className="mensagem-container">
-      |       ^
-  109 |       {mensagem && (
-  110 |         <div className={`mensagem ${mensagem.tipo}`}>
-  111 |           {mensagem.texto}
-
-Expression expected
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[02:09:14.625] Server  LOG      ✓ Compiled in 17ms
-[02:09:55.819] Server  LOG      ✓ Compiled in 9ms
-[02:10:56.967] Server  LOG      ✓ Compiled in 9ms
-[02:11:18.318] Server  LOG      ✓ Compiled in 9ms
-[02:12:58.015] Server  LOG      ✓ Compiled in 15ms
-[02:12:58.902] Browser ERROR   ./src/pages/Livros.jsx:108:7
-Parsing ecmascript source code failed
-  106 |
-  107 |
-> 108 |       </div>
-      |       ^
-  109 |
-  110 |       <div className="card">
-  111 |         <h3>
-
-Expression expected
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[02:12:58.902] Browser ERROR   ./src/pages/Livros.jsx:108:8
-Parsing ecmascript source code failed
-  106 |
-  107 |
-> 108 |       </div>
-      |        ^^^^^
-  109 |
-  110 |       <div className="card">
-  111 |         <h3>
-
-Unterminated regexp literal
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[02:13:13.201] Server  LOG      ✓ Compiled in 7ms
-[02:13:13.902] Browser ERROR   ./src/pages/Livros.jsx:124:12
-Parsing ecmascript source code failed
-  122 |       </div>
-  123 |
-> 124 |       <div className="card">
-      |            ^^^^^^^^^
-  125 |         <h3>
-  126 |           {editando ? <Edit2 size={20} /> : <Plus size={20} />}
-  127 |           {editando ? "Editar Livro" : "Cadastrar Novo Livro"}
+  111 |       )}
+  112 |       </div>
+> 113 |     <div className="container">
+      |          ^^^^^^^^^
+  114 |
+  115 |       <h2>
+  116 |         <BookOpen size={32} />
 
 Expected ',', got 'className'
 
@@ -1018,18 +30,17 @@ Import traces:
     ./src/App.js [Client Component SSR]
     ./src/App.js [Server Component]
     ./src/app/page.tsx [Server Component]
-[02:13:41.622] Server  LOG      ✓ Compiled in 15ms
-[02:13:41.903] Browser ERROR   ./src/pages/Livros.jsx:108:41
+[00:05:56.270] Browser ERROR   ./src/pages/Livros.jsx:113:10
 Parsing ecmascript source code failed
-  106 |     <div className="container">
-  107 |
-> 108 |       div className="mensagem-container">
-      |                                         ^
-  109 |     {mensagem && (
-  110 |       <div className={`mensagem ${mensagem.tipo}`}>
-  111 |         {mensagem.texto}
+  111 |       )}
+  112 |     </div>
+> 113 |     <div className="container">
+      |          ^^^^^^^^^
+  114 |
+  115 |       <h2>
+  116 |         <BookOpen size={32} />
 
-Unexpected token. Did you mean `{'>'}` or `&gt;`?
+Expected ',', got 'className'
 
 Import traces:
   Client Component Browser:
@@ -1043,90 +54,42 @@ Import traces:
     ./src/App.js [Client Component SSR]
     ./src/App.js [Server Component]
     ./src/app/page.tsx [Server Component]
-[02:14:31.942] Server  LOG      ✓ Compiled in 9ms
-[02:14:34.240] Server  LOG      ✓ Compiled in 17ms
-[02:14:34.903] Browser ERROR   ./src/pages/Livros.jsx:116:7
+[00:06:48.801] Server  LOG      ✓ Compiled in 19ms
+[00:17:11.143] Server  LOG      ✓ Compiled in 21ms
+[00:17:13.924] Server  LOG      ✓ Compiled in 16ms
+[00:17:14.420] Browser ERROR   ./src/pages/Livros.jsx:113:10
 Parsing ecmascript source code failed
-  114 |       <di
+  111 |       )}
+  112 |     </div>
+> 113 |     <div className="container">
+      |          ^^^^^^^^^
+  114 |
+  115 |       <h2>
+  116 |         <BookOpen size={32} />
+
+Expected ',', got 'className'
+
+Import traces:
+  Client Component Browser:
+    ./src/pages/Livros.jsx [Client Component Browser]
+    ./src/App.js [Client Component Browser]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/pages/Livros.jsx [Client Component SSR]
+    ./src/App.js [Client Component SSR]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+[00:17:16.419] Browser ERROR   ./src/pages/Livros.jsx:114:10
+Parsing ecmascript source code failed
+  112 |     </div>
+  113 |     
+> 114 |     <div className="container">
+      |          ^^^^^^^^^
   115 |
-> 116 |       <h2>
-      |       ^
+  116 |       <h2>
   117 |         <BookOpen size={32} />
-  118 |         Gerenciar Livros
-  119 |       </h2>
-
-Expression expected
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[02:14:35.903] Browser ERROR   ./src/pages/Livros.jsx:116:7
-Parsing ecmascript source code failed
-  114 |       <div
-  115 |
-> 116 |       <h2>
-      |       ^
-  117 |         <BookOpen size={32} />
-  118 |         Gerenciar Livros
-  119 |       </h2>
-
-Expression expected
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[02:14:38.904] Browser ERROR   ./src/pages/Livros.jsx:116:7
-Parsing ecmascript source code failed
-  114 |       </div
-  115 |
-> 116 |       <h2>
-      |       ^
-  117 |         <BookOpen size={32} />
-  118 |         Gerenciar Livros
-  119 |       </h2>
-
-Expression expected
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[02:14:42.901] Server  LOG      ✓ Compiled in 10ms
-[02:14:43.902] Browser ERROR   ./src/pages/Livros.jsx:123:12
-Parsing ecmascript source code failed
-  121 |       </div>
-  122 |
-> 123 |       <div className="card">
-      |            ^^^^^^^^^
-  124 |         <h3>
-  125 |           {editando ? <Edit2 size={20} /> : <Plus size={20} />}
-  126 |           {editando ? "Editar Livro" : "Cadastrar Novo Livro"}
 
 Expected ',', got 'className'
 
@@ -1142,88 +105,16 @@ Import traces:
     ./src/App.js [Client Component SSR]
     ./src/App.js [Server Component]
     ./src/app/page.tsx [Server Component]
-[02:15:36.903] Browser ERROR   ./src/pages/Livros.jsx:160:12
+[00:17:23.243] Server  LOG      ✓ Compiled in 19ms
+[00:17:23.419] Browser ERROR   ./src/pages/Livros.jsx:106:15
 Parsing ecmascript source code failed
-  158 |       </div>
-  159 |
-> 160 |       <div className="card">
-      |            ^^^^^^^^^
-  161 |         <h3>
-  162 |           <Filter size={20} />
-  163 |           Filtros
-
-Expected ',', got 'className'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[02:15:50.903] Browser ERROR   ./src/pages/Livros.jsx:123:12
-Parsing ecmascript source code failed
-  121 | </div> 
-  122 |
-> 123 |       <div className="card">
-      |            ^^^^^^^^^
-  124 |         <h3>
-  125 |           {editando ? <Edit2 size={20} /> : <Plus size={20} />}
-  126 |           {editando ? "Editar Livro" : "Cadastrar Novo Livro"}
-
-Expected ',', got 'className'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[02:15:52.903] Browser ERROR   ./src/pages/Livros.jsx:123:12
-Parsing ecmascript source code failed
-  121 |       </div>
-  122 |
-> 123 |       <div className="card">
-      |            ^^^^^^^^^
-  124 |         <h3>
-  125 |           {editando ? <Edit2 size={20} /> : <Plus size={20} />}
-  126 |           {editando ? "Editar Livro" : "Cadastrar Novo Livro"}
-
-Expected ',', got 'className'
-
-Import traces:
-  Client Component Browser:
-    ./src/pages/Livros.jsx [Client Component Browser]
-    ./src/App.js [Client Component Browser]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/pages/Livros.jsx [Client Component SSR]
-    ./src/App.js [Client Component SSR]
-    ./src/App.js [Server Component]
-    ./src/app/page.tsx [Server Component]
-[02:15:54.835] Server  LOG      ✓ Compiled in 12ms
-[02:15:55.902] Browser ERROR   ./src/pages/Livros.jsx:116:7
-Parsing ecmascript source code failed
-  114 |       <di
-  115 |
-> 116 |       <h2>
-      |       ^
-  117 |         <BookOpen size={32} />
-  118 |         Gerenciar Livros
-  119 |       </h2>
+  104 |
+  105 |   return (
+> 106 |     {mensagem && (
+      |               ^^
+  107 |   <div className="mensagem-topo">
+  108 |     <div className={`mensagem ${mensagem.tipo}`}>
+  109 |       {mensagem.texto}
 
 Expression expected
 
@@ -1239,8 +130,106 @@ Import traces:
     ./src/App.js [Client Component SSR]
     ./src/App.js [Server Component]
     ./src/app/page.tsx [Server Component]
-[02:16:04.405] Server  LOG      ✓ Compiled in 19ms
-[02:16:04.903] Browser ERROR   ./src/pages/Livros.jsx:270:1
+[00:17:28.419] Browser ERROR   ./src/pages/Livros.jsx:106:15
+Parsing ecmascript source code failed
+  104 |
+  105 |   return (
+> 106 |     {mensagem && (
+      |               ^^
+  107 |       <div className="mensagem-topo">
+  108 |         <div className={`mensagem ${mensagem.tipo}`}>
+  109 |           {mensagem.texto}
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/pages/Livros.jsx [Client Component Browser]
+    ./src/App.js [Client Component Browser]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/pages/Livros.jsx [Client Component SSR]
+    ./src/App.js [Client Component SSR]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+[00:17:41.420] Browser ERROR   ./src/pages/Livros.jsx:106:15
+Parsing ecmascript source code failed
+  104 |
+  105 |   return (
+> 106 |     {mensagem &&, (
+      |               ^^
+  107 |       <div className="mensagem-topo">
+  108 |         <div className={`mensagem ${mensagem.tipo}`}>
+  109 |           {mensagem.texto}
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/pages/Livros.jsx [Client Component Browser]
+    ./src/App.js [Client Component Browser]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/pages/Livros.jsx [Client Component SSR]
+    ./src/App.js [Client Component SSR]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+[00:17:43.419] Browser ERROR   ./src/pages/Livros.jsx:106:15
+Parsing ecmascript source code failed
+  104 |
+  105 |   return (
+> 106 |     {mensagem && (
+      |               ^^
+  107 |       <div className="mensagem-topo">
+  108 |         <div className={`mensagem ${mensagem.tipo}`}>
+  109 |           {mensagem.texto}
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/pages/Livros.jsx [Client Component Browser]
+    ./src/App.js [Client Component Browser]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/pages/Livros.jsx [Client Component SSR]
+    ./src/App.js [Client Component SSR]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+[00:18:47.604] Server  LOG      ✓ Compiled in 14ms
+[00:18:49.823] Server  LOG      ✓ Compiled in 17ms
+[00:18:50.420] Browser ERROR   ./src/pages/Livros.jsx:107:10
+Parsing ecmascript source code failed
+  105 |   return (
+  106 |     <></>
+> 107 |     <div className="container">
+      |          ^^^^^^^^^
+  108 |
+  109 |     <div className="mensagem-container">
+  110 |       {mensagem && (
+
+Expected ',', got 'className'
+
+Import traces:
+  Client Component Browser:
+    ./src/pages/Livros.jsx [Client Component Browser]
+    ./src/App.js [Client Component Browser]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/pages/Livros.jsx [Client Component SSR]
+    ./src/App.js [Client Component SSR]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+[00:18:57.675] Server  LOG      ✓ Compiled in 14ms
+[00:18:58.420] Browser ERROR   ./src/pages/Livros.jsx:270:1
 Parsing ecmascript source code failed
   268 |     </div>
   269 |   )
@@ -1264,9 +253,258 @@ Import traces:
     ./src/App.js [Client Component SSR]
     ./src/App.js [Server Component]
     ./src/app/page.tsx [Server Component]
-[02:16:13.299] Server  LOG      ✓ Compiled in 11ms
-[02:16:19.212] Server  LOG      ✓ Compiled in 15ms
-[02:16:30.263] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[02:16:30.412] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[02:16:30.412] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[02:16:30.412] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765551477629}
+[00:19:45.549] Server  LOG      ✓ Compiled in 14ms
+[00:19:50.518] Server  LOG      ✓ Compiled in 21ms
+[00:19:54.283] Server  LOG      ✓ Compiled in 19ms
+[00:19:57.049] Server  LOG      ✓ Compiled in 13ms
+[00:22:42.711] Server  LOG      ✓ Compiled in 12ms
+[00:23:22.307] Server  LOG      ✓ Compiled in 8ms
+[00:23:57.558] Server  LOG      ✓ Compiled in 9ms
+[00:24:02.482] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:02.870] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:24:02.870] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:24:02.871] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765569246282}
+[00:25:22.488] Server  LOG      ✓ Compiled in 20ms
+[00:25:42.891] Server  LOG      ✓ Compiled in 14ms
+[00:25:45.003] Server  LOG      ✓ Compiled in 13ms
+[00:25:45.107] Browser ERROR   ./src/pages/Leitores.jsx:94:10
+Parsing ecmascript source code failed
+  92 |   return (
+  93 |     <></>
+> 94 |     <div className="container">
+     |          ^^^^^^^^^
+  95 |       <h2>
+  96 |         <Users size={32} />
+  97 |         Gerenciar Leitores
+
+Expected ',', got 'className'
+
+Import traces:
+  Client Component Browser:
+    ./src/pages/Leitores.jsx [Client Component Browser]
+    ./src/App.js [Client Component Browser]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/pages/Leitores.jsx [Client Component SSR]
+    ./src/App.js [Client Component SSR]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+[00:25:49.083] Server  LOG      ✓ Compiled in 9ms
+[00:25:49.186] Browser ERROR   ./src/pages/Leitores.jsx:235:1
+Parsing ecmascript source code failed
+  233 |     </div>
+  234 |   )
+> 235 | }
+      | ^
+  236 |
+  237 | export default Leitores
+  238 |
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import traces:
+  Client Component Browser:
+    ./src/pages/Leitores.jsx [Client Component Browser]
+    ./src/App.js [Client Component Browser]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/pages/Leitores.jsx [Client Component SSR]
+    ./src/App.js [Client Component SSR]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+[00:25:56.368] Browser ERROR   ./src/pages/Leitores.jsx:236:1
+Parsing ecmascript source code failed
+  234 |     
+  235 |   )
+> 236 | }
+      | ^
+  237 |
+  238 | export default Leitores
+  239 |
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import traces:
+  Client Component Browser:
+    ./src/pages/Leitores.jsx [Client Component Browser]
+    ./src/App.js [Client Component Browser]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/pages/Leitores.jsx [Client Component SSR]
+    ./src/App.js [Client Component SSR]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+[00:25:57.979] Browser ERROR   ./src/pages/Leitores.jsx:237:1
+Parsing ecmascript source code failed
+  235 |   
+  236 |   )
+> 237 | }
+      | ^
+  238 |
+  239 | export default Leitores
+  240 |
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import traces:
+  Client Component Browser:
+    ./src/pages/Leitores.jsx [Client Component Browser]
+    ./src/App.js [Client Component Browser]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/pages/Leitores.jsx [Client Component SSR]
+    ./src/App.js [Client Component SSR]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+[00:26:12.773] Server  LOG      ✓ Compiled in 13ms
+[00:26:14.527] Server  LOG      ✓ Compiled in 13ms
+[00:26:14.629] Browser ERROR   ./src/pages/Leitores.jsx:95:10
+Parsing ecmascript source code failed
+  93 |     <>
+  94 |     </>
+> 95 |     <div className="container">
+     |          ^^^^^^^^^
+  96 |       <h2>
+  97 |         <Users size={32} />
+  98 |         Gerenciar Leitores
+
+Expected ',', got 'className'
+
+Import traces:
+  Client Component Browser:
+    ./src/pages/Leitores.jsx [Client Component Browser]
+    ./src/App.js [Client Component Browser]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/pages/Leitores.jsx [Client Component SSR]
+    ./src/App.js [Client Component SSR]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+[00:26:25.639] Server  LOG      ✓ Compiled in 20ms
+[00:26:27.432] Server  LOG      ✓ Compiled in 13ms
+[00:26:48.140] Server  LOG      ✓ Compiled in 21ms
+[00:26:52.150] Server  LOG      ✓ Compiled in 26ms
+[00:27:26.517] Server  LOG      ✓ Compiled in 20ms
+[00:27:29.309] Server  LOG      ✓ Compiled in 12ms
+[00:27:43.513] Server  LOG      ✓ Compiled in 25ms
+[00:27:45.725] Server  LOG      ✓ Compiled in 15ms
+[00:27:48.041] Server  LOG      ✓ Compiled in 12ms
+[00:27:48.144] Browser ERROR   ./src/pages/Emprestimos.jsx:99:10
+Parsing ecmascript source code failed
+   97 |   return (
+   98 |     <></>
+>  99 |     <div className="container">
+      |          ^^^^^^^^^
+  100 |       <h2>
+  101 |         <BookCopy size={32} />
+  102 |         Gerenciar Empréstimos
+
+Expected ',', got 'className'
+
+Import traces:
+  Client Component Browser:
+    ./src/pages/Emprestimos.jsx [Client Component Browser]
+    ./src/App.js [Client Component Browser]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/pages/Emprestimos.jsx [Client Component SSR]
+    ./src/App.js [Client Component SSR]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+[00:27:52.062] Server  LOG      ✓ Compiled in 14ms
+[00:27:52.164] Browser ERROR   ./src/pages/Emprestimos.jsx:252:1
+Parsing ecmascript source code failed
+  250 |     </div>
+  251 |   )
+> 252 | }
+      | ^
+  253 |
+  254 | export default Emprestimos
+  255 |
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import traces:
+  Client Component Browser:
+    ./src/pages/Emprestimos.jsx [Client Component Browser]
+    ./src/App.js [Client Component Browser]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/pages/Emprestimos.jsx [Client Component SSR]
+    ./src/App.js [Client Component SSR]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+[00:28:20.294] Server  LOG      ✓ Compiled in 15ms
+[00:28:21.632] Server  LOG      ✓ Compiled in 28ms
+[00:28:24.490] Server  LOG      ✓ Compiled in 20ms
+[01:03:49.195] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:03:49.564] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:03:49.564] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:03:49.564] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765571632975}
+[01:07:59.448] Server  LOG      ✓ Compiled in 21ms
+[01:08:28.172] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:08:28.447] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:08:28.447] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:08:28.447] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765571911859}
+[01:09:13.665] Server  LOG      ✓ Compiled in 24ms
+[01:09:30.352] Server  LOG      ✓ Compiled in 25ms
+[01:09:38.458] Server  LOG      ✓ Compiled in 30ms
+[01:10:11.474] Server  LOG      ✓ Compiled in 26ms
+[01:10:32.449] Server  LOG      ✓ Compiled in 24ms
+[01:10:32.556] Browser ERROR   ./src/pages/Leitores.jsx:215:32
+Parsing ecmascript source code failed
+  213 |                 {leitores.map((leitor) => (
+  214 |                     <td>{leitor.id}</td>
+> 215 |                     <td>{leitor.nome}</td>
+      |                                ^
+  216 |                     <td>{leitor.email}</td>
+  217 |                     <td>{leitor.matricula}</td>
+  218 |                     <td>
+
+Expected '</', got '.'
+
+Import traces:
+  Client Component Browser:
+    ./src/pages/Leitores.jsx [Client Component Browser]
+    ./src/App.js [Client Component Browser]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/pages/Leitores.jsx [Client Component SSR]
+    ./src/App.js [Client Component SSR]
+    ./src/App.js [Server Component]
+    ./src/app/page.tsx [Server Component]
+[01:10:56.196] Server  LOG      ✓ Compiled in 19ms
+[01:12:54.759] Server  LOG      ✓ Compiled in 21ms
+[01:13:12.506] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:13:12.686] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:13:12.686] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:13:12.687] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765572196098}
+[01:13:47.923] Server  LOG      ✓ Compiled in 22ms
+[01:13:52.071] Server  LOG      ✓ Compiled in 22ms
+[01:15:28.921] Server  LOG      ✓ Compiled in 21ms
+[01:15:35.174] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:15:35.428] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:15:35.428] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:15:35.428] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765572338838}
+[01:15:43.723] Server  LOG      ✓ Compiled in 36ms
+[01:15:48.644] Server  LOG      ✓ Compiled in 21ms
+[01:26:19.015] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:26:19.460] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:26:19.460] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:26:19.460] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1765572982870}

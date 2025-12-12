@@ -443,30 +443,35 @@ tbody tr:last-child td {
 }
 
 .mensagem-container {
-  min-height: 0;
-  margin-bottom: 20px;
-  position: relative;
+  z-index: 1000;
+  pointer-events: none;
+  width: 100%;
+  position: fixed;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .mensagem {
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow);
+  pointer-events: auto;
   align-items: center;
   gap: 12px;
-  width: 100%;
-  max-width: 800px;
-  margin: 24px auto;
+  width: auto;
+  max-width: 600px;
+  margin: 0 auto;
   padding: 16px 20px;
   font-size: 14px;
   font-weight: 500;
-  animation: .3s cubic-bezier(.4, 0, .2, 1) slideIn;
+  animation: .3s cubic-bezier(.4, 0, .2, 1) slideInDown;
   display: flex;
 }
 
-@keyframes slideIn {
+@keyframes slideInDown {
   from {
     opacity: 0;
-    transform: translateY(-10px);
+    transform: translateY(-20px);
   }
 
   to {

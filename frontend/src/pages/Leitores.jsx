@@ -90,13 +90,20 @@ function Leitores() {
   }
 
   return (
+    <>
+    <div className="mensagem-container">
+      {mensagem && (
+        <div className={`mensagem ${mensagem.tipo}`}>
+          {mensagem.texto}
+        </div>
+      )}
+    </div>
+    
     <div className="container">
       <h2>
         <Users size={32} />
         Gerenciar Leitores
       </h2>
-
-      {mensagem && <div className={`mensagem ${mensagem.tipo}`}>{mensagem.texto}</div>}
 
       <div className="card">
         <h3>
@@ -231,6 +238,7 @@ function Leitores() {
         )}
       </div>
     </div>
+  </>
   )
 }
 

@@ -95,13 +95,20 @@ function Emprestimos() {
   }
 
   return (
+    <>
+    <div className="mensagem-container">
+      {mensagem && (
+        <div className={`mensagem ${mensagem.tipo}`}>
+          {mensagem.texto}
+        </div>
+      )}
+    </div>
+    
     <div className="container">
       <h2>
         <BookCopy size={32} />
         Gerenciar Empréstimos
       </h2>
-
-      {mensagem && <div className={`mensagem ${mensagem.tipo}`}>{mensagem.texto}</div>}
 
       <div className="card">
         <h3>
@@ -249,6 +256,7 @@ function Emprestimos() {
         )}
       </div>
     </div>
+  </>
   )
 }
 

@@ -445,9 +445,13 @@ tbody tr:last-child td {
 }
 
 .mensagem-container {
-  position: relative;
-  min-height: 0px;
-  margin-bottom: 20px;
+  position: fixed;
+  top: 20px; /* Distância do topo */
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000; /* Para ficar acima de tudo */
+  width: 100%;
+  pointer-events: none; /* Permite clicar através do container */
 }
 
 .mensagem {
@@ -456,20 +460,21 @@ tbody tr:last-child td {
   gap: 12px;
   padding: 16px 20px;
   border-radius: var(--radius-lg);
-  margin: 24px auto;
-  margin-bottom: 24px;
   font-weight: 500;
   font-size: 14px;
-  animation: slideIn 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  animation: slideInDown 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   box-shadow: var(--shadow);
-  max-width: 800px;
-  width: 100%;
+  max-width: 600px;
+  width: auto;
+  margin: 0 auto;
+  pointer-events: auto; /* Permite clicar na mensagem */
 }
 
-@keyframes slideIn {
+/* Nova animação para entrada pelo topo */
+@keyframes slideInDown {
   from {
     opacity: 0;
-    transform: translateY(-10px);
+    transform: translateY(-20px);
   }
   to {
     opacity: 1;

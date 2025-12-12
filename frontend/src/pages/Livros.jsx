@@ -103,15 +103,17 @@ function Livros() {
   }
 
   return (
-    <div className="container">
+    <>
 
-      <div className="mensagem-container">
+    <div className="mensagem-container">
       {mensagem && (
         <div className={`mensagem ${mensagem.tipo}`}>
           {mensagem.texto}
         </div>
       )}
-      </div>
+    </div>
+    
+    <div className="container">
 
       <h2>
         <BookOpen size={32} />
@@ -265,6 +267,7 @@ function Livros() {
         )}
       </div>
     </div>
+  </>
   )
 }
 
