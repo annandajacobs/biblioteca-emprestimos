@@ -37,11 +37,11 @@ module.exports = (sequelize) => {
       }
     },
     status: {
-      type: DataTypes.ENUM('disponivel', 'emprestado'),
-      defaultValue: 'disponivel',
+      type: DataTypes.ENUM('disponível', 'emprestado', 'descartado'),
+      defaultValue: 'disponível',
       validate: {
         isIn: {
-          args: [['disponivel', 'emprestado']],
+          args: [['disponível', 'emprestado', 'descartado']],
           msg: 'Status deve ser disponível ou emprestado'
         }
       }

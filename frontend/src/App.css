@@ -444,17 +444,26 @@ tbody tr:last-child td {
   color: #1e40af;
 }
 
+.mensagem-container {
+  position: relative;
+  min-height: 0px;
+  margin-bottom: 20px;
+}
+
 .mensagem {
   display: flex;
   align-items: center;
   gap: 12px;
   padding: 16px 20px;
   border-radius: var(--radius-lg);
+  margin: 24px auto;
   margin-bottom: 24px;
   font-weight: 500;
   font-size: 14px;
   animation: slideIn 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   box-shadow: var(--shadow);
+  max-width: 800px;
+  width: 100%;
 }
 
 @keyframes slideIn {

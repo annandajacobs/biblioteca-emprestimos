@@ -152,21 +152,33 @@ class LivroController {
         });
       }
 
+      const { Emprestimo } = require('../models');
+
+      const totalEmprestimos = await Emprestimo.count({ where: { livroId: id } });
+
       if (livro.status === 'emprestado') {
         return res.status(400).json({
-          mensagem: 'Não é possível deletar',
-          erro: 'Livro está emprestado'
+          mensagem: 'Não é possível excluir',
+          erro: 'O livro está emprestado no momento'
         });
       }
 
-      await livro.destroy();
+      if (totalEmprestimos === 0) {
+        await livro.destroy();
+        return res.json({
+          mensagem: 'Livro excluído permanentemente (sem histórico de empréstimos)'
+        });
+      }
+
+      await livro.update({ status: 'descartado' });
 
       return res.json({
-        mensagem: 'Livro deletado com sucesso'
+        mensagem: 'Livro marcado como descartado (mantido por ter histórico de empréstimos)'
       });
+
     } catch (error) {
       return res.status(500).json({
-        mensagem: 'Erro ao deletar livro',
+        mensagem: 'Erro ao excluir livro',
         erro: error.message
       });
     }

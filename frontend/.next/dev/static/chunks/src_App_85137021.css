@@ -442,12 +442,20 @@ tbody tr:last-child td {
   color: #1e40af;
 }
 
+.mensagem-container {
+  min-height: 0;
+  margin-bottom: 20px;
+  position: relative;
+}
+
 .mensagem {
   border-radius: var(--radius-lg);
   box-shadow: var(--shadow);
   align-items: center;
   gap: 12px;
-  margin-bottom: 24px;
+  width: 100%;
+  max-width: 800px;
+  margin: 24px auto;
   padding: 16px 20px;
   font-size: 14px;
   font-weight: 500;

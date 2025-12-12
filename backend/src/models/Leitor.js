@@ -8,11 +8,11 @@ module.exports = (sequelize) => {
       autoIncrement: true
     },
     nome: {
-      type: DataTypes.STRING(150),
+      type: DataTypes.STRING(200),
       allowNull: false,
       validate: {
         notEmpty: { msg: 'Nome é obrigatório' },
-        len: { args: [3, 150], msg: 'Nome deve ter entre 3 e 150 caracteres' }
+        len: { args: [3, 200], msg: 'Nome deve ter entre 3 e 200 caracteres' }
       }
     },
     email: {
@@ -25,7 +25,7 @@ module.exports = (sequelize) => {
       }
     },
     matricula: {
-      type: DataTypes.STRING(20),
+      type: DataTypes.STRING(7),
       allowNull: false,
       unique: { msg: 'Matrícula já cadastrada' },
       validate: {

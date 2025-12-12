@@ -66,9 +66,16 @@ function Leitores() {
     if (window.confirm("Deseja realmente deletar este leitor?")) {
       try {
         setLoading(true)
-        await api.deleteLeitor(id)
+        const response = await api.deleteLeitor(id)
+
+        if (response.erro) {
+          // mensagem de erro vinda do backend
+          return mostrarMensagem(response.erro, "erro")
+        }
+
         mostrarMensagem("Leitor deletado com sucesso!")
         carregarLeitores()
+
       } catch (error) {
         mostrarMensagem("Erro ao deletar leitor", "erro")
       } finally {

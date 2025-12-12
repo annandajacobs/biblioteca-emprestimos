@@ -145,7 +145,16 @@ class LeitorController {
       return res.json({
         mensagem: 'Leitor deletado com sucesso'
       });
+
     } catch (error) {
+
+      if (error.name === 'SequelizeForeignKeyConstraintError') {
+        return res.status(400).json({
+          mensagem: 'Não é possível excluir o leitor',
+          erro: 'Este leitor possui histórico de empréstimos e não pode ser removido.'
+        });
+      }
+
       return res.status(500).json({
         mensagem: 'Erro ao deletar leitor',
         erro: error.message

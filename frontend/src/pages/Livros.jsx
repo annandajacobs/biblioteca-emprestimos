@@ -63,11 +63,34 @@ function Livros() {
     if (window.confirm("Deseja realmente deletar este livro?")) {
       try {
         setLoading(true)
-        await api.deleteLivro(id)
-        mostrarMensagem("Livro deletado com sucesso!")
+        const response = await api.deleteLivro(id)
+        
+        // Verificar se houve erro na resposta
+        if (response.erro) {
+          // Se o livro foi marcado como desativado
+          if (response.mensagem && response.mensagem.includes('desativado')) {
+            mostrarMensagem(response.mensagem, 'alerta')
+            if (response.alerta) {
+              console.warn(response.alerta)
+            }
+          } else {
+            // Outro tipo de erro
+            mostrarMensagem(response.mensagem || response.erro, 'erro')
+          }
+        } else {
+          // Sucesso na deleção
+          mostrarMensagem(response.mensagem || "Livro deletado com sucesso!")
+        }
+        
         carregarLivros()
       } catch (error) {
-        mostrarMensagem("Erro ao deletar livro", "erro")
+        console.error('Erro ao deletar livro:', error)
+        mostrarMensagem(
+          error.response?.data?.erro || 
+          error.message || 
+          "Erro ao deletar livro", 
+          "erro"
+        )
       } finally {
         setLoading(false)
       }
@@ -81,12 +104,19 @@ function Livros() {
 
   return (
     <div className="container">
+
+      <div className="mensagem-container">
+      {mensagem && (
+        <div className={`mensagem ${mensagem.tipo}`}>
+          {mensagem.texto}
+        </div>
+      )}
+      </div>
+
       <h2>
         <BookOpen size={32} />
         Gerenciar Livros
       </h2>
-
-      {mensagem && <div className={`mensagem ${mensagem.tipo}`}>{mensagem.texto}</div>}
 
       <div className="card">
         <h3>
@@ -170,6 +200,7 @@ function Livros() {
             <option value="">Todos os status</option>
             <option value="disponível">Disponível</option>
             <option value="emprestado">Emprestado</option>
+            <option value="descartado">Descartado</option>
           </select>
         </div>
       </div>
@@ -209,7 +240,7 @@ function Livros() {
                     <td>{livro.autor}</td>
                     <td>{livro.isbn}</td>
                     <td>
-                      <span className={`badge ${livro.status === "disponível" ? "badge-success" : "badge-warning"}`}>
+                      <span className={`badge ${livro.status === "disponível" ? "badge-success" : livro.status === "emprestado" ? "badge-warning" : "badge-danger"}`}>
                         {livro.status}
                       </span>
                     </td>
